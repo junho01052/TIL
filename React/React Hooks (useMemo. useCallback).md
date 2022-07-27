@@ -139,6 +139,6 @@ export default function App() {
   );
 }
 ```
-<button>을 눌러도 “아이템을 가져옵니다.”가 콘솔에 출력되었던 코드가  
+`button`을 눌러도 “아이템을 가져옵니다.”가 콘솔에 출력되었던 코드가  
 useCallback을 활용해 최적화되었습니다.
 
