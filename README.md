@@ -1,5 +1,5 @@
 # Today I Learned
-* 코더가 아닌 프로 개발자가 되기 위해 개발 관련 학습과 경험을 기록한다.
+* Coder가 아닌 Software Developer(**Pro**)가 되기 위해 개발 관련 학습과 경험을 기록한다.
 
 ## 작성 규칙
 * github contribution을 채우기 위한 의미없는 커밋은 하지 않는다.
