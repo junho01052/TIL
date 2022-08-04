@@ -203,7 +203,7 @@ Lighthouse는 성능, 접근성, PWA, SEO 등을 검사하며 이를 이용해 �
 Lighthouse는 성능을 측정할 뿐 아니라 무엇이 시간을 많이 소모하는지,  
 어떻게 개선하여 최적화를 할 수 있을지 해결책도 제시해줍니다.  
 Opportunities 항목을 확인하면 각 메트릭별 문제를 확인할 수 있습니다.  
-다음은 에어비앤비에서 Lighthouse를 실행하고 Oppertunity를 확인한  결과입니다.  
+다음은 에어비앤비에서 Lighthouse를 실행하고 Oppertunity를 확인한 결과입니다.  
 ![Lighthouse](../img/Lighthouse.png)  
 각 항목마다 어떤 해결 방법이 있는지 알아보겠습니다.  
 1. Reduce unused JavaScript  
@@ -220,5 +220,8 @@ js 파일 크기/페이로드가 작을수록 페이지 로드 속도가 빨라�
 가장 흔한 문제는 이미지의 해상도가 엄청난 크기로 업로드 되는 것입니다.  
 이미지 크기를 적절하게 조정하면 페이지 로드와 UX 경험을 향상시킬 수 있습니다.  
 이는 더 적은 양의 셀룰러 데이터를 필요로하기 때문에 모바일 디비이스에서 더욱 가치있습니다.
-![Properly](../img/unoptimized-image.gif)
+![Properly](../img/unoptimized-image.gif)  
+
+<https://gtmetrix.com/>  
+위 링크를 방문하면 다양한 Oppertunity와 해결방법을 학습할 수 있습니다.
 
