@@ -12,7 +12,7 @@ JavaScript는 쉽게 DOM 객체에 접근할 수 있고, 조작할 수 있습니
 일정 부분이 바뀐다면 전체가 아닌 바뀐 부분만 렌더링 하기 위해 Virtual DOM이 등장했습니다.  
 Virtual DOM 객체는 화면에 표시되는 내용을 직접 변경하는 것이 아니라 실제 DOM을 조작하는 것보다 훨씬 속도가 빠릅니다.   
 어떻게 더 빠른지 아래 그림을 보겠습니다.  
-![Virtual Dom](https://user-images.githubusercontent.com/58800295/180723292-06084835-9194-46c5-a712-b2fa8ed94c86.png)  
+![Virtual Dom](../img/Virtual%20Dom.png)  
 노란색 원들은 엡데이트된 노드입니다. React에선 상태가 변경된 UI 요소죠.  
 상태가 변경되면 먼저 Virtual DOM에 변화를 적용합니다.  
 그후 실제 DOM과 비교하고, 바뀐 부분만 브라우저에 적용합니다.
