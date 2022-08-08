@@ -9,10 +9,11 @@
 ## Classification
 
 ### React
-* [React Hooks (useMemo, useCallback, Custom Hooks)](https://github.com/junho01052/TIL/blob/main/React/React%20Hooks%20(useMemo.%20useCallback).md)
+* [React Hooks (useMemo, useCallback, Custom Hooks)](https://github.com/junho01052/TIL/blob/main/React/React%20Hooks%20(useMemo%2C%20useCallback%2C%20Custom%20Hooks).md)
 * [Virtual DOM](https://github.com/junho01052/TIL/blob/main/React/Virtual%20DOM.md)
 * [Code Spliting (React.lazy(), Suspense)](https://github.com/junho01052/TIL/blob/main/React/Code%20Spliting%20(React.lazy()%2C%20Suspense).md)
 
 
 ### Description
 * [Optimization](https://github.com/junho01052/TIL/blob/main/Description/Optimization.md)
+* [CI, CD](https://github.com/junho01052/TIL/blob/main/Description/CI%2C%20CD.md)
